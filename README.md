@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">A passionate backend developer from Bangladesh</h3>
 
-
-<h2 align="left">Programming Languages and Runtime:</h2>
+### Programming Languages and Runtime:
 <p align="left">
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
         <img src="./icon/programming/php.svg" alt="php" height="40"/>
@@ -34,8 +33,8 @@ Here are some ideas to get you started:
         <img src="./icon/programming/typescript.svg" alt="typescript" height="40"/>
     </a>
 </p>
-<br/>
-<h2 align="left">Frameworks:</h2>
+
+### Frameworks:
 <p align="left">
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
         <img src="./icon/framework/laravel.svg" alt="laravel" height="40"/>
@@ -47,8 +46,8 @@ Here are some ideas to get you started:
         <img src="./icon/framework/react.svg" alt="react" height="40"/>
     </a>
 </p>
-<br/>
-<h2 align="left">IDE and Tools:</h2>
+
+### IDE and Tools:
 <p align="left">
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
         <img src="./icon/ide/vs-code.svg" alt="vs-code" height="40"/>
@@ -60,8 +59,8 @@ Here are some ideas to get you started:
         <img src="./icon/ide/notepadd.svg" alt="notepadd" height="40"/>
     </a>
 </p>
-<br/>
-<h2 align="left">Operating System:</h2>
+
+### Operating System:
 <p align="left">
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
         <img src="./icon/os/windows.svg" alt="windows" height="40"/>
@@ -70,8 +69,8 @@ Here are some ideas to get you started:
         <img src="./icon/os/ubuntu.svg" alt="ubuntu" height="40"/>
     </a>
 </p>
-<br/>
-<h2 align="left">Database:</h2>
+
+### Database:
 <p align="left">
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
         <img src="./icon/database/mysql.svg" alt="mysql" height="40"/>
@@ -80,8 +79,8 @@ Here are some ideas to get you started:
         <img src="./icon/database/redis.svg" alt="redis" height="40"/>
     </a>
 </p>
-<br/>
-<h2 align="left">Server:</h2>
+
+### Servers:
 <p align="left">
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
         <img src="./icon/server/nginx.svg" alt="nginx" height="40"/>
